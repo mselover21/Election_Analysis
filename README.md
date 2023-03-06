@@ -12,7 +12,8 @@
 - Data Source: election_results.csv
 - Software: Python 3.7.6
 
-####Summary
+####Procedures
+
 After analyzing the data the results of the election are as follows
 - There were 369,711 total votes cast
   - Within the starter code to calculate total votes you first initialize a counter (vote_counter = 0)
@@ -67,6 +68,7 @@ After analyzing the data the results of the election are as follows
   - Diana Degette won the election with a winning vote count of 272,892 and a winning percentage of 73.8%
 ![Election_Results_Printed_Terminal.png](https://github.com/mselover21/Election_Analysis/blob/main/Election_Results_Printed_Terminal.PNG)
  
-#####Challenge Summary
+#####Summary
+
 In summary the script that has been written almost all elections and can help campaigns to better spend their resources during election seasons. There are a couple things that may be needed to analyze elections that are national. In that case I would add modifications to the script by adding another for loop to differentiate between not just counties but states as well. Depending on the data you are provided you may also need to change specific lines of code. For example, if you have a data set where the county and candidate are switched positions in the index you will need to change the code to tell the computer to search index 1 instead of 2 for the candidate name. All in all I found this assignment to be very challenging and educational. I feel that I have broad understanding of how python works and look forward to learning better ways to utilize it as a tool.
 
