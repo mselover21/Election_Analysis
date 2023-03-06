@@ -1,7 +1,7 @@
-# Election_Analysis_Challenge
+# Election_Analysis
 
 ##Overview
-The Challenge this week had me complete an election analysis but take it a few steps further.
+
 1. Calculate the total number of votes in the election.
 2. Get the number of votes for each county in the precinct and calculate percentage totals for each county.
 3. Find the county with the largest turnout.
